@@ -81,4 +81,4 @@ print("Decision Tree Cross-Validation Accuracy:", dt_scores.mean())
 print("Random Forest Cross-Validation Accuracy:", rf_scores.mean())
 
 # 6.CSV File saving
-data.to_csv("C://Users//KIIT//OneDrive//Desktop//ELAB//Task-5//heart.csv", index=False)
+data.to_csv("C://Users//KIIT//OneDrive//Desktop//ELAB//Task-5//heart_processed.csv", index=False)
